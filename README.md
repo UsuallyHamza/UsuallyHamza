@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a student of Software Engineering who loves co
 
 - 👀 I'm interested in app development.
   
-- 🌱 I'm currently learning DSA in C++.
+- 🌱 I'm currently learning RAG pipelines (LangChain & LangGraph).
   
 - 💞️ I'm looking to collaborate on open-source projects and web app development.
   
