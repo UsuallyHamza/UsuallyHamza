@@ -2,11 +2,11 @@
 
 Welcome to my GitHub profile! I'm a student of Software Engineering who loves coding, exploring new technologies, and collaborating with others on exciting projects. Here's a little about me:
 
-- 👀 I'm interested in app development.
+- 👀 I'm in AI Engineering.
   
 - 🌱 I'm currently learning LangChain, RAG & LangGraph.
   
-- 💞️ I'm looking to collaborate on open-source projects and web app development.
+- 💞️ I'm looking to collaborate on open-source projects and development of LLM based applications.
   
 - 📫 How to reach me: Feel free to connect with me on officialhamza7898@gmail.com.
   
